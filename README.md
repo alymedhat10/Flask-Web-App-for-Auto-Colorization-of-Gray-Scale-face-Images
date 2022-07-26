@@ -1,18 +1,15 @@
 # Flask-Web-App-for-Auto-Colorization-of-Gray-Scale-face-Images
 
-Libraries:
+# Libraries:
 
 •	Python 3
-
 •	Flask
-
 •	Tensorflow
-
 •	Keras
-
 •	Numpy
 
-Dataset:
+# Dataset:
+
 Famous people faces | Kaggle
 https://www.kaggle.com/datasets/caldodepollo/famous-people-faces
 
