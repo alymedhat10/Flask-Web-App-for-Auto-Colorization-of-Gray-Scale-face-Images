@@ -1,10 +1,15 @@
 # Flask-Web-App-for-Auto-Colorization-of-Gray-Scale-face-Images
 
 Libraries:
+
 •	Python 3
+
 •	Flask
+
 •	Tensorflow
+
 •	Keras
+
 •	Numpy
 
 Dataset:
